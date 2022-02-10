@@ -5,7 +5,7 @@
 package bimasena;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
-import javx.swing.*;
+import javax.swing.*;
 /**
  *
  * @author Bima
